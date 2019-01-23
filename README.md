@@ -1,6 +1,7 @@
 SELAMAT DATANG
 
-Tugas Game 
+Tugas Game Proyek teknologi informasi
+KELAS B
 Nama Anggota Kelompok:
 1. Rahmat Fajar Hidayat (A710160053)
 2. Harun Fahrudin (A710160058)
